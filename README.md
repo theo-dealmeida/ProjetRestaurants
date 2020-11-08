@@ -19,9 +19,9 @@ if(!err) {
 
 [Projet Restaurants - Théo DE ALMEIDA](https://youtu.be/JbEqj5OhaJ8)
 
-### Expllication de l'application
+### Explication de l'application
 
-### Paramèters globaux
+### Paramètres globaux
 
 Un bouton menu sera toujours présent en haut à gauche de l'application vous permettant de naviguer entre la page [Liste des restaurants](http://localhost:8081/) et la page [Ajouter un restaurant](http://localhost:8081/AjouterRestaurants).
 
