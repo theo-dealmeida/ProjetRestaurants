@@ -23,14 +23,14 @@ if(!err) {
 
 ### Paramèters globaux
 
-Un bouton menu sera toujours présent en haut à gauche de l'application vous permettant de naviguer entre la page [Liste des restaurants](localhost:8081) et la page [Ajouter un restaurant](http://localhost:8081/AjouterRestaurants).
+Un bouton menu sera toujours présent en haut à gauche de l'application vous permettant de naviguer entre la page [Liste des restaurants](http://localhost:8081/) et la page [Ajouter un restaurant](http://localhost:8081/AjouterRestaurants).
 
-Si vous vous trouvez sur une page de détail d'un restaurant, un bouton rouge "Retour" vous permettra de revenir à la [Liste des restaurants](localhost:8081)
+Si vous vous trouvez sur une page de détail d'un restaurant, un bouton rouge "Retour" vous permettra de revenir à la [Liste des restaurants](http://localhost:8081/)
 
 
 ### Page Liste des restaurants
 
-[Page Liste des restaurants](localhost:8081)
+[Page Liste des restaurants](http://localhost:8081/)
 
 Il s'agit de la page principale de l'application. 
 
@@ -62,7 +62,7 @@ Une boîte de dialogue apparaît avant le rechargement de la page vous indiquant
 
 ### Page Détail d'un restaurant
 
-Cette page est accessible via la page [Liste des restaurants](localhost:8081) en cliquant sur le bouton "Détails" situé sur la colonne de droite de chaque restaurant du tableau.
+Cette page est accessible via la page [Liste des restaurants](http://localhost:8081/) en cliquant sur le bouton "Détails" situé sur la colonne de droite de chaque restaurant du tableau.
 
 Si un restaurant n'a pas de détail, le bouton sera désactivé.
 
@@ -77,4 +77,4 @@ Ces détails sont :
 - Une carte centrée sur le restaurant
 - La liste des notes du restaurant
 
-Un bouton rouge "Retour" en haut à gauche de la page vous permet de revenir sur la page [Liste des restaurants](localhost:8081)
+Un bouton rouge "Retour" en haut à gauche de la page vous permet de revenir sur la page [Liste des restaurants](http://localhost:8081/)
